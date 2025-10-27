@@ -12,5 +12,7 @@ body {
    background-color: #F0F4F8;
    font-weight: 300;
 }
-
+a{
+   color:red;
+}
 /* add styles here */
